@@ -1,4 +1,4 @@
-### Hi there, I am Evangelion Manuhutu. I am a Software Engineering Student at Telkom University.
+### Hi there, I am Evangelion Manuhutu a Software Engineering Student at Telkom University.
 
 I’m currently working on my own [Game Engine](https://github.com/evangelionmanuhutu/ORigin-Engine) and doing some University tasks.
 
