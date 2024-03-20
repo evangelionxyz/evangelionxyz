@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Evangelion Manuhutu. I am a Software Engineering Student at Telkom University.
+
+I’m currently working on my own [Game Engine](https://github.com/evangelionmanuhutu/ORigin-Engine) and doing some University tasks.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evangelionmanuhutu&hide_progress=false&theme=radical&layout=compact)
+
+![Evangelion's GitHub stats](https://github-readme-stats.vercel.app/api?username=evangelionmanuhutu&show_icons=true&theme=radical)
+
 
 <!--
 **evangelionmanuhutu/evangelionmanuhutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
