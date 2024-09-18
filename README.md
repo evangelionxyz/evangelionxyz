@@ -1,5 +1,5 @@
 ### Hi there, I am Evangelion Manuhutu 🤓 <br> a Software Engineering Student at Telkom University.
-I’m currently working on my own 2D and 3D [Game Engine](https://github.com/evangelionmanuhutu/ORigin-Engine) using OpenGL. 
+I’m currently working on my own 2D and 3D [Game Engine](https://github.com/evangelionxyz/ORigin-Engine) using OpenGL. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evangelionmanuhutu&hide_progress=false&theme=radical&layout=compact)
 
