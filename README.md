@@ -14,6 +14,8 @@ I have **7+ years of experience building software**, ranging from applications a
 
 I'm also building my own software ecosystem, **[Offside Software](https://github.com/orgs/Offside-Software/repositories)**, with the goal of creating tools and infrastructure that help accelerate my engineering workflow.
 
+Feel free to contact me via evangelionxyz10@gmail.com or [LinkedIn](https://www.linkedin.com/in/evangelionxyz/)
+
 ---
 
 ### Software Development in the AI-Assisted Era
