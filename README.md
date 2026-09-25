@@ -16,24 +16,4 @@ I'm also building my own software ecosystem, **[Offside Software](https://github
 
 Feel free to contact me via evangelionxyz10@gmail.com or [LinkedIn](https://www.linkedin.com/in/evangelionxyz/)
 
----
-
-### Software Development in the AI-Assisted Era
-
-As software development shifts toward **AI-assisted development**, I believe the role of engineering becomes even more important.
-
-AI can accelerate implementation, but engineers still need to understand **why software works, how it fails, and how to verify and improve it**.
-
-So my current focus is to keep sharpening my engineering skills:
-
-* Learn **how to learn**
-* Learn **how to work effectively with AI**
-* Learn **how to investigate AI-generated code**
-* Learn **how to verify, debug, and patch AI-generated code**
-* Continue building strong **software engineering fundamentals**
-
-> **AI makes writing code faster. Engineering makes the code worth shipping.**
-
----
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evangelionxyz\&theme=radical\&layout=compact)
